@@ -1,3 +1,3 @@
 # Statistics2017
 
-https://github.com/maskot1977/Statistics2017/blob/master/README.md
+http://nbviewer.jupyter.org/github/maskot1977/Statistics2017/blob/master/index.ipynb
